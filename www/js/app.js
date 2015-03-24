@@ -228,6 +228,15 @@ angular.module('mm', [
       }
     })
 
+    .state('site.scorm',{
+      url:'/scorm',
+      views:{
+        'site':{
+          templateUrl:'tpl/site-scorm.html'
+        }
+      }
+    })
+
     .state('site.folder', {
       url: '/folder',
       views: {

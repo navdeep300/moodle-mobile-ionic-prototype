@@ -1,0 +1,21 @@
+<ion-view view-title="SCORM 1.2">
+    <ion-content padding="true">
+       <div class="list">
+            <a class="item item-thumbnail-left" href="">
+            <img src="img\mod\scorm.png">
+            <h2>What is scorm 1.2</h2>
+            <p>The Sharable Content Object Reference Model (SCORM) allows learning content from any vendor to play in any SCORM conformant Learning Management System (LMS).</p>
+            </a>
+             <a class="item item-thumbnail-left" href="">
+            <img src="img\mod\external-tool.png">
+            <h2>SCORM RTE</h2>
+            <p>This specifies the behaviour of content once it is launched by LMS</p>
+            </a>
+             <a class="item item-thumbnail-left" href="">
+            <img src="img\mod\ims.png">
+            <h2>SCORM CAM</h2>
+            <p>It indicates how we should package the content so that it can be imported to a LMS</p>
+            </a>
+       </div>
+    </ion-content>
+</ion-view>
